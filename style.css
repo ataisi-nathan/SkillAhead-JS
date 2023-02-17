@@ -1,0 +1,11 @@
+.one {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30vw;
+    height: 20vh;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+}
